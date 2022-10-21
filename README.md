@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mateusz Godlewski
+- 👀 I’m interested ML/NLP/Automation projects
+- 🌱 I’m currently learning about Python concurrency and Ubuntu Server.
+- 📫 How to reach me mgodlewski25@gmail.com
