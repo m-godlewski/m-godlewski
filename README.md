@@ -2,4 +2,4 @@
 - 👀 I’m interested ML/NLP/Automation projects
 - 🌱 I’m currently learning about Python concurrency and Ubuntu Server.
 - 📫 You can reach me on LinkedIn https://www.linkedin.com/in/mateusz-godlewski-283885172/
-- [My Portfolio](https://mateuszgodlewski.netlify.app/])
+- [My Portfolio](https://mateuszgodlewski.netlify.app/)
